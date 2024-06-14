@@ -6,25 +6,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-  </a>
-  <img src="https://camo.githubusercontent.com/6eee5f6e83f1fdb987a4a5707fb989fc10646367244e505ee289b93909c78932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="javascript"/>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
-  </a>
+  <img src="https://camo.githubusercontent.com/6eee5f6e83f1fdb987a4a5707fb989fc10646367244e505ee289b93909c78932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="javascript"
+/>
+  <img src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html"
+/>
+  <img src="https://camo.githubusercontent.com/1cce2dc4bb406a5019322c3f123da088d108b8ee7cb3a7d7918c9893d6d828f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="css3"
+/>
+  <img src="https://camo.githubusercontent.com/b32314d74cf640da758b3f09e0383d810243c85d8ab0a2a4dce0c950b3aca4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c75653f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="react"
+/>
+  <img src="https://camo.githubusercontent.com/03aaab698880ba5353a958bed314d3913137aa86d3ec7308fef56efedf6c4839/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="nodejs"
+/>
+  <img src="https://camo.githubusercontent.com/0fe35fa5b717ebf1fd9a274a89203fe884cb2c1d8554efac3f4a7dd95a82c907/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3446433038443f7374796c653d666c61742d737175617265266c6f676f3d7675652e6a73266c6f676f436f6c6f723d7768697465" alt="vuejs"
+/>
+  <img src="https://camo.githubusercontent.com/9de12212f1ed91d989276eea6d5445e7b657cc3b574814eca29afb2fae61aeac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462" alt="mongodb"
+/>
+  <img src="https://camo.githubusercontent.com/40a7829e7827c09f70eb03b3f3725aa0ad9520f22173f8858250ad29f94b1417/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" alt="sass"
+/>
+    <img src="https://camo.githubusercontent.com/c29c306b0331bdebcb2009041564b647f11b63914b36026be84d5f446c5cee8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="bootstrap"
+/>
+  <img src="https://camo.githubusercontent.com/32d52bae953186b8090d1aaa41346692ad3df9b82b03e15d17cca65bcad5d1f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666c61742d737175617265266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465" alt="firebase"
+/>
+
+
 </p>
 
 <!---
